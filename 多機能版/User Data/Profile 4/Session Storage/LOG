@@ -1,0 +1,15 @@
+2021/09/11-23:21:03.910 3460 Reusing MANIFEST C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\Profile 4\Session Storage/MANIFEST-000001
+2021/09/11-23:21:03.958 3460 Recovering log #13
+2021/09/11-23:21:03.960 3460 Reusing old log C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\Profile 4\Session Storage/000013.log 
+2021/09/11-23:21:26.110 2cfc Level-0 table #17: started
+2021/09/11-23:21:26.179 2cfc Level-0 table #17: 12244 bytes OK
+2021/09/11-23:21:26.391 2cfc Delete type=0 #13
+2021/09/11-23:21:26.393 2cfc Compacting 4@0 + 1@1 files
+2021/09/11-23:21:26.511 2cfc Generated table #18@0: 867 keys, 13089 bytes
+2021/09/11-23:21:26.512 2cfc Compacted 4@0 + 1@1 files => 13089 bytes
+2021/09/11-23:21:26.518 2cfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/11-23:21:26.521 2cfc Delete type=2 #7
+2021/09/11-23:21:26.522 2cfc Delete type=2 #9
+2021/09/11-23:21:26.522 2cfc Delete type=2 #11
+2021/09/11-23:21:26.522 2cfc Delete type=2 #14
+2021/09/11-23:21:26.522 2cfc Delete type=2 #17

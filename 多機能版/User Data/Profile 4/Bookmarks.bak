@@ -1,0 +1,62 @@
+{
+   "checksum": "7f9a9fdf2cddcc1ddf48e8a16be53f21",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13257071094938002",
+            "guid": "af1668fc-9b87-41fe-a8f0-5f1971f54492",
+            "id": "5",
+            "name": "マイドライブ - Google ドライブ",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13274883399404890",
+            "guid": "94aad505-3b83-46aa-ba8f-6e46c327bb1e",
+            "id": "7",
+            "name": "広告設定",
+            "type": "url",
+            "url": "https://adssettings.google.com/authenticated"
+         }, {
+            "date_added": "13274883494388971",
+            "guid": "ecf47cc7-0605-4a29-9318-824aca02fb1a",
+            "id": "8",
+            "name": "広告設定",
+            "type": "url",
+            "url": "https://adssettings.google.com/u/0/authenticated"
+         }, {
+            "date_added": "13274884115428225",
+            "guid": "74e2ab73-6710-4cef-9862-896658b42ab2",
+            "id": "9",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13255758502900142",
+         "date_modified": "13274884115428225",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "ブックマーク バー",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13255758502900145",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13255758502900148",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAX/Ak2coFACEAX/Ak2coFADIYChYIAhGVDdk12coFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJAF/wJNnKBQAhAF/wJNnKBQAyGAoWCAIRlQ3ZNdnKBQAYACEAAAAAAAAAACAASMLq1N+5L3DC6tTfuS8SACABKhhsRzhVRlZ6Wlo0cElMM2NzWjYwanZBPT0S7AEICRLnAQocRjlHc2R1V3VQL1RyZy9Nd2ZMWFgxS0R0SW1vPRJmWjpBRHF0QVp4c0V1RnJ0RWp0VGJEQUd5ditCZEpDVjJwK2hpUThQVENzbi92TzgwU2RIaHc4MERabnRHQ2pYZTNyeEhvUVJCSHlPY09vQ3ozNjk5UDF6dmVhaU4yYnZnSlpoUT09GAAgAigCMLi39b2Y2/ICOOTHqOC5L0CAyKjguS9KHFZEY1laTEg3UTVvVEdJR0JTY1V3cklIY2N1Yz1aHyIdtUJJMXdOR21sOWErb1cweTUyVkpCRFFlaGw0RT1lOPk5MxLFAQgDEsABChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWnpxSWR6RnRmNlh1WEhnNHpUbStJd01QTFJLZ0Y4NzdNZ2RBNk9SUklPRlFWSjNlUkh5SlFlalJYRTVIVUxQVkFXWEt5QnV0TU5IWXFQc3M2NTRFcXRoOC9VcDh3PT0YACAAKAAwwvGTpNa+8gI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgIiAGUAAAAAEusBCAcS5gEKHDBSbitRRE12aUQxT1dyK1FlRjRYRjNkS0twdz0SZlo6QURxdEFaeHNFdUZydEVqdFRiREFHeXYrQmRKQ2gvZU5aMUpxUjVqL1ZtUDZWQlVzdEJaMG1mSWFScTFrM1V1NWtlejhBY0F3OERwaFhJazNWVnF6WklZY0JwQ1NFUDJFYlE9PRgAIAIoAjDVz77oldvyAjjt7fzfuS9Aie7837kvShxDWUZqYVBSSEtUY3YzVFhURDkweWRHeWxpSGc9Wh4iHGJSMFY4TTlIUEtnUlYva1BTVkNyaWkyT3pybz1lEDD/5BLFAQgCEsABChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnlzM2x6S0k3YkZraGpXRFQrV2ZGMXF5YkJsTzI5U2pOQ3BwNWJZajVLODJvd0NqS00yc3NrMHRxRDUwOXA5UTZBRXZwTXFwbjZEdVlld2pYcEIyZFlycVltRU1nPT0YACAAKAAwwvGTpNa+8gI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgIiAGUAAAAAEq0BCAESqAEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaelNMUWFub3BOd0JvcDJpT0JlT3hQdSt1anV0NkhwNlpsNUZqZDhOaGFzYWY3WUI3WFVUUEZUSStZS1hWSklPL3ZtSXF5ORgAIAAoADDC8ZOk1r7yAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAiIAZQAAAAAS6wEICBLmAQocTkVzVmw1RFcrcUFLVWFwTXdWa083b25reGI4PRJmWjpBRHF0QVp4c0V1RnJ0RWp0VGJEQUd5ditCZEpDdlVtejh3Q0ZWaGkvQjZuVWFaWXNGNUhlcUd0RndVeU9JSkpIZmNnbXZMVU9WRVc0TmlKUkZsQnR6Z2FNTkRiUC81eE9Odz09GAAgAigCMJXc7ZSW2/ICOPXTguC5L0CG1ILguS9KHDNRNXRjUVZIdkJDdnhyUzBPaDA2K2dlYkY2OD1aHiIcalR3RXM2MUhSZzc3OFVCYzU2N2d6TGRiT3dZPWUQMP/kEusBCAUS5gEKHGdQSXhvaWhjYmlmRG1adndUdWZmY2p2SHl5MD0SZlo6QURxdEFaeHNFdUZydEVqdFRiREFHeXYrQmRKQ1lwQ3BPczJlRXAzMjFLd0sxRk1abFNKdXNza1E2ZE9jd1BNRkg5VkZFZU1vUXpYOUU5ck96T2pJclVOTjZuandmQUg0WXc9PRgAIAEoATCry8Ck1r7yAjjP54uNti9Az+eLjbYvShx1bnBDazlYVnlHbkVScis2STBWODd4UEpiYTA9Wh4iHFFPN1pJdTNjaHZXOEkyazZmK1l3OFgzNWVraz1lugosURgBILrr1N+5LygB",
+   "version": 1
+}

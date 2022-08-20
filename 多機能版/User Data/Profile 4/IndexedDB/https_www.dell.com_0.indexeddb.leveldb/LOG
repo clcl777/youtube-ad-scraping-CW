@@ -1,0 +1,6 @@
+2021/09/03-01:35:44.405 2f0c Creating DB C:\Users\tisk0\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.dell.com_0.indexeddb.leveldb since it was missing.
+2021/09/03-01:35:44.421 2f0c Reusing MANIFEST C:\Users\tisk0\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.dell.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-01:35:46.677 3e98 Level-0 table #5: started
+2021/09/03-01:35:46.683 3e98 Level-0 table #5: 1012 bytes OK
+2021/09/03-01:35:46.686 3e98 Delete type=0 #3
+2021/09/03-01:35:46.686 3e98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

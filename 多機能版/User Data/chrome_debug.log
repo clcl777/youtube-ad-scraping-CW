@@ -1,0 +1,30 @@
+[17732:15696:0911/232103.379:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-102190130573994920333
+[17732:15916:0911/232103.436:INFO:login_database.cc(1488)] Password decryption failed, encryption_result is 1
+[17732:16752:0911/232103.630:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+[17732:16752:0911/232103.697:WARNING:account_fetcher_service.cc(375)] Failed to get UserInfo for 102190130573994920333
+[17732:16752:0911/232106.652:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[17732:16752:0911/232106.686:INFO:CONSOLE(7272)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (7272)
+[17732:16752:0911/232107.663:INFO:CONSOLE(4247)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/8a85ed3f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4247)
+[17732:16752:0911/232112.213:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=MDoF7HLPFJ0&t=3s (0)
+[17732:16752:0911/232112.213:INFO:CONSOLE(0)] "The resource https://r5---sn-ji0c0uxa-obvl.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=MDoF7HLPFJ0&t=3s (0)
+[17732:16752:0911/232112.213:INFO:CONSOLE(0)] "The resource https://r5---sn-ji0c0uxa-obvl.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=MDoF7HLPFJ0&t=3s (0)
+[17732:16752:0911/232119.375:INFO:CONSOLE(433)] "[object Object]", source: https://cdn.softbank.jp/ybb/set/data/special/air/js/cr201907/shared/displayController.js?20210819 (433)
+[17732:16752:0911/232127.395:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[17732:16752:0911/232132.127:INFO:CONSOLE(4247)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/8a85ed3f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4247)
+[17732:6752:0911/232133.436:INFO:login_database.cc(1488)] Password decryption failed, encryption_result is 1
+[17732:16752:0911/232139.844:INFO:CONSOLE(0)] "The resource https://r8---sn-ji0c0uxa-obv6.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=P6XYHPiphpA (0)
+[17732:16752:0911/232139.844:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=P6XYHPiphpA (0)
+[17732:16752:0911/232139.844:INFO:CONSOLE(0)] "The resource https://r8---sn-ji0c0uxa-obv6.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=P6XYHPiphpA (0)
+[17732:16752:0911/232140.799:ERROR:device_event_log_impl.cc(214)] [23:21:40.798] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+[17732:16752:0911/232140.802:ERROR:device_event_log_impl.cc(214)] [23:21:40.801] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+[560:18168:0911/232216.233:ERROR:cache_util_win.cc(20)] Unable to move the cache: アクセスが拒否されました。 (0x5)
+[560:18168:0911/232216.237:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\ShaderCache\GPUCache to C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\ShaderCache\old_GPUCache_000
+[560:18168:0911/232216.238:ERROR:disk_cache.cc(184)] Unable to create cache
+[560:18168:0911/232216.238:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[3868:18904:0911/232249.048:ERROR:cache_util_win.cc(20)] Unable to move the cache: アクセスが拒否されました。 (0x5)
+[3868:18904:0911/232249.052:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\ShaderCache\GPUCache to C:\Users\tisk0\PycharmProjects\youtube_ad\User Data\ShaderCache\old_GPUCache_000
+[3868:18904:0911/232249.061:ERROR:disk_cache.cc(184)] Unable to create cache
+[3868:18904:0911/232249.071:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[17732:16752:0911/232352.910:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

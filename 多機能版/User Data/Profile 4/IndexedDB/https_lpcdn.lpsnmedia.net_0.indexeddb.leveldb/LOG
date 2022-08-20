@@ -1,0 +1,6 @@
+2021/09/03-03:20:58.202 4bc8 Creating DB C:\Users\tisk0\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2021/09/03-03:20:58.329 4bc8 Reusing MANIFEST C:\Users\tisk0\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-03:21:00.479 1d78 Level-0 table #5: started
+2021/09/03-03:21:00.490 1d78 Level-0 table #5: 405 bytes OK
+2021/09/03-03:21:00.492 1d78 Delete type=0 #3
+2021/09/03-03:21:00.493 1d78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
